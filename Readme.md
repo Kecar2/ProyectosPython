@@ -12,7 +12,7 @@ Carrera de Tortugas:
 - Punto final de un objeto
 - Fin de Partida.
 
-### Api Gasolineras de Españana
+### Api Gasolineras de España
 
 #### ¿Que Aprendí?
 
