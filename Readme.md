@@ -1,6 +1,6 @@
-# Ejercicios Python y libreria Turtle
+# Ejercicios Python 
 
-### Proyecto 1 
+### Proyecto 1 libreria Turtle
 
 Carrera de Tortugas:
 
@@ -12,9 +12,11 @@ Carrera de Tortugas:
 - Punto final de un objeto
 - Fin de Partida.
 
-### Api Gasolineras de España
+### Api Gasolineras de España 
 
 #### ¿Que Aprendí?
+
+##### Ejercicio en Jupiter
 
 - Conectarme a la API con
 - Convertir Respuesta JSON en DataFrame
